@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Deep-DiD simulation and reproduction package"
+type: software
+license: MIT
+repository-code: "https://github.com/jingbowa/deep-did"
+authors:
+  - family-names: Cheng
+    given-names: Yan
+    affiliation: "Shanghai University of Finance and Economics"
+    website: "https://yanchengom.github.io"
+  - family-names: Wang
+    given-names: Jingbo
+    affiliation: "The Chinese University of Hong Kong"
+    email: jingbowang@cuhk.edu.hk
+    website: "https://jingbowa.github.io"
+  - family-names: Cao
+    given-names: Xinyu
+    affiliation: "The Chinese University of Hong Kong"
+    email: xinyucao@cuhk.edu.hk
+    website: "https://xinyucao-mkt.github.io"
+  - family-names: Shen
+    given-names: Zuo-Jun Max
+  - family-names: Zhang
+    given-names: Yuhui
+preferred-citation:
+  type: article
+  title: "A Deep-DiD Method to Estimate Heterogeneous Treatment Effects: Application to Content Creator Selection"
+  authors:
+    - family-names: Cheng
+      given-names: Yan
+    - family-names: Wang
+      given-names: Jingbo
+    - family-names: Cao
+      given-names: Xinyu
+    - family-names: Shen
+      given-names: Zuo-Jun Max
+    - family-names: Zhang
+      given-names: Yuhui
+  journal: "Marketing Science"
+  volume: 45
+  issue: 2
+  start: 258
+  end: 279
+  year: 2026
+  doi: "10.1287/mksc.2023.0511"
